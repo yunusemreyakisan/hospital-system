@@ -17,11 +17,6 @@ namespace HelloWorld
 }
 ```
 
-```markdown
-# İletişim 
-mail = 'yunusemreyakisan@outlook.com'
-instagram = 'theyakisan'
-twitter = 'theyakisan'
-```
+
 
 
